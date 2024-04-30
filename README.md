@@ -1,7 +1,7 @@
 # deep-learning-challenge
 
 #The purpose of this analysis is to develop a deep learning model using TensorFlow and Keras to predict whether an organization funded by Alphabet Soup will be successful based on various features provided in the dataset. The analysis involves preprocessing the data, designing, compiling, training, and evaluating the neural network model, optimizing the model for better performance, and finally writing a report on the model's performance and suggesting potential improvements or alternative approaches.
-Results:
+## Results:
 Data Preprocessing:
 Target Variable(s):
 The target variable for our model is "IS_SUCCESSFUL," which indicates whether an organization funded by Alphabet Soup was successful (1) or not (0). Feature Variable(s):
